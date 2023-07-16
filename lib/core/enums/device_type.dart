@@ -1,0 +1,1 @@
+enum DeviceType {Mobile, Taplet, Desktop}
